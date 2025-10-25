@@ -335,22 +335,9 @@ jobs:
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](MIT) file for details.
 
-## 🙏 Acknowledgments
 
-- **AWS** for providing robust serverless infrastructure
-- **OpenRouter** for AI text summarization capabilities
-- **Python Community** for excellent libraries and tools
-- **CloudFormation** for Infrastructure as Code capabilities
-
-## 📞 Support
-
-For support and questions:
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/projet3-serverless-processing/issues)
-- **Email**: ahmedou.enaha.enaha@gmail.com
-- **Documentation**: [Project Wiki](https://github.com/yourusername/projet3-serverless-processing/wiki)
 
 ## 📊 Project Status
 
